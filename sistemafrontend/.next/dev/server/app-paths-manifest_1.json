@@ -1,0 +1,5 @@
+{
+  "/(private)/(dashboard)/page": "app/(private)/(dashboard)/page.js",
+  "/(private)/relatorios/page": "app/(private)/relatorios/page.js",
+  "/(public)/sign-in/page": "app/(public)/sign-in/page.js"
+}
